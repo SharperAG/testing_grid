@@ -11,7 +11,7 @@ body {
   padding: 0;
 }
 
-.header__flex {
+.header__title {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
