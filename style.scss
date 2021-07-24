@@ -1,0 +1,23 @@
+body{
+    font-size: 16px;
+    margin: auto;
+    max-width: 1080px;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header__flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+}
+.header__navbar{
+    a{
+        text-decoration: none;
+    }
+}
